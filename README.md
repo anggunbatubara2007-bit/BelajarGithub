@@ -2,3 +2,4 @@
 Percobaan menggunakan github
 saya mulai dari membuat akun 
 setelah itu saya membuat contoh nya
+kemudian saya mulai menggunakan commitnya
